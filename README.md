@@ -1,4 +1,4 @@
-# Python Final Project
+# Python Final Project/ Quiz Game
 Jose Amaya  <br />
 Course: CIS-153-O1A <br />
 Revision 1 <br />
