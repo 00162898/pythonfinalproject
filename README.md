@@ -1,7 +1,8 @@
 # Python Final Project
 Jose Amaya  <br />
 Course: CIS-153-O1A <br />
-Revision 1
+Revision 1 <br />
+Date: 12/08/2020
 
 ## What is the idea?
 The idea is to run a python quiz program using random math with random numbers and general questions which will be scored and graded according to NECC standards.
