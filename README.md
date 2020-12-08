@@ -16,4 +16,4 @@ The goal is to use mutiple functions/modules (but not limited to) random, math a
       * For the right answer, tuple1 wiil randomly print out "Great!", "Awesome!", etc. as an exmaple.
       * For the wrong answer, tuple2 will randomly print out "Sorry!", "Nope!", etc. as an example.
 3. Based on the total correct answer, the average will be calculated to print out the percentage and the grade for the quiz.
-4. Using beautifulsoup and a customized .html file, the program will parse through the urlf to printout specific line(s) as a closing statement at the end of the quiz.
+4. Using beautifulsoup and a customized .html file, the program will import/parse through the url to printout specific line(s) as a closing statement at the end of the quiz.
